@@ -1,6 +1,6 @@
 Build instructions:
 
-https://github.com/ClassiCube/ClassiCube
+git clone https://github.com/ClassiCube/ClassiCube
 
 cd ClassiCube
 
